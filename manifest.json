@@ -1,0 +1,12 @@
+{
+    "display_name": "기억 서재 (장기 기억)",
+    "loading_order": 90,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "SillyTavern port of tlsiddl/marinara-memory-module",
+    "version": "0.11.10-st.1",
+    "homePage": "https://github.com/tlsiddl/marinara-memory-module",
+    "generate_interceptor": "memoryLibraryInterceptor"
+}
